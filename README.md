@@ -1,2 +1,2 @@
 # app-dev
-My first repository
+Candy Crush, Talking Tom, Resortopia
