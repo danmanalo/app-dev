@@ -13,6 +13,7 @@ My first repository
 - **Will Byers (Noah Schnapp)**: The boy who mysteriously disappears in Season 1.  
 - **Dustin Henderson (Gaten Matarazzo)**: Known for his quirky personality and love of science.  
 - **Lucas Sinclair (Caleb McLaughlin)**: The pragmatic member of the group.
+- **Dan Wn (Danny Boy)**: The dragon warrior.
 
 ---
 
