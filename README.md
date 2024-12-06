@@ -1,2 +1,2 @@
 # app-dev
-My first repository
+sinigang, bulalo, samgyup, turkey, steak, tinola 
